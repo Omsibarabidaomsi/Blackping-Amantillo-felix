@@ -31,7 +31,7 @@
     </style>
         <h1>SUSTAINING CREATIVITY AMIDST</h1>
         <h2>THE NOW NORMAL</h2>
-   <a href="Homepage.html"> <button class="btn">GET STARTED</button></a>
+   <a href="Homepage.php"> <button class="btn">GET STARTED</button></a>
 
     </dv>
 </body>
