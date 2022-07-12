@@ -20,7 +20,7 @@
     <li><a href="">News</a></li>
     <li><a href="">About</a></li>
     <li><a class="active" href="#home">Home</a></li>
-    <li><a class="" href="index.html">Home1</a></li>
+    <li><a class="" href="index.php">Home1</a></li>
   </ul>
   </div>
 
